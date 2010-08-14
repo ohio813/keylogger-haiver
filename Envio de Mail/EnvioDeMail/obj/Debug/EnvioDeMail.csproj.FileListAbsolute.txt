@@ -1,0 +1,7 @@
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\Software .NET\EnvioDeMail\EnvioDeMail\obj\Debug\ResolveAssemblyReference.cache
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\Software .NET\EnvioDeMail\EnvioDeMail\obj\Debug\EnvioDeMail.Properties.Resources.resources
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\Software .NET\EnvioDeMail\EnvioDeMail\obj\Debug\EnvioDeMail.csproj.GenerateResource.Cache
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\Software .NET\EnvioDeMail\EnvioDeMail\bin\Debug\EnvioDeMail.exe
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\Software .NET\EnvioDeMail\EnvioDeMail\bin\Debug\EnvioDeMail.pdb
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\Software .NET\EnvioDeMail\EnvioDeMail\obj\Debug\EnvioDeMail.exe
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\Software .NET\EnvioDeMail\EnvioDeMail\obj\Debug\EnvioDeMail.pdb
