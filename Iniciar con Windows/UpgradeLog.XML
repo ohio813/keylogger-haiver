@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IniciarConWindows">
+</Property><Property Name="Solution File" Value="D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\IniciarConWindows.sln">
+</Property><Property Name="User Options File" Value="D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\IniciarConWindows.suo">
+</Property><Property Name="Date" Value="domingo, 08 de agosto de 2010">
+</Property><Property Name="Time" Value="20:34 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="IniciarConWindows.sln" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\Backup\IniciarConWindows.sln">
+</Event><Event ErrorLevel="0" Project="" Source="IniciarConWindows.suo" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\Backup\IniciarConWindows.suo">
+</Event><Event ErrorLevel="0" Project="IniciarConWindows" Source="IniciarConWindows\IniciarConWindows.csproj" Description="Project file successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\Backup\IniciarConWindows\IniciarConWindows.csproj">
+</Event><Event ErrorLevel="0" Project="IniciarConWindows" Source="IniciarConWindows\Form1.cs" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\Backup\IniciarConWindows\Form1.cs">
+</Event><Event ErrorLevel="0" Project="IniciarConWindows" Source="IniciarConWindows\Form1.Designer.cs" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\Backup\IniciarConWindows\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IniciarConWindows" Source="IniciarConWindows\Program.cs" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\Backup\IniciarConWindows\Program.cs">
+</Event><Event ErrorLevel="0" Project="IniciarConWindows" Source="IniciarConWindows\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\Backup\IniciarConWindows\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IniciarConWindows" Source="IniciarConWindows\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\Backup\IniciarConWindows\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IniciarConWindows" Source="IniciarConWindows\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\Backup\IniciarConWindows\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IniciarConWindows" Source="IniciarConWindows\Properties\Settings.settings" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\Backup\IniciarConWindows\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="IniciarConWindows" Source="IniciarConWindows\Form1.resx" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\Backup\IniciarConWindows\Form1.resx">
+</Event><Event ErrorLevel="0" Project="IniciarConWindows" Source="IniciarConWindows\Properties\Resources.resx" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\IniciarConWindows\Backup\IniciarConWindows\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="IniciarConWindows" Source="IniciarConWindows\IniciarConWindows.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="IniciarConWindows" Source="IniciarConWindows\IniciarConWindows.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="IniciarConWindows.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="IniciarConWindows.sln" Description="Converted">
+</Event></UpgradeLog>
