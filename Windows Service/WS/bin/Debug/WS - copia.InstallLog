@@ -1,0 +1,13 @@
+﻿Instalando ensamblado 'D:\WS\WS\bin\Debug\WS.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\WS\WS\bin\Debug\WS.exe
+   logfile = D:\WS\WS\bin\Debug\WS.InstallLog
+Instalando el servicio Haiver_Dia2...
+El servicio Haiver_Dia2 se ha instalado correctamente.
+Creando el origen de EventLog Haiver_Dia2 en el registro Application...
+Confirmando ensamblado 'D:\WS\WS\bin\Debug\WS.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\WS\WS\bin\Debug\WS.exe
+   logfile = D:\WS\WS\bin\Debug\WS.InstallLog

@@ -1,0 +1,14 @@
+D:\WS\WS\bin\Debug\WS.exe.config
+D:\WS\WS\bin\Debug\WS.exe
+D:\WS\WS\obj\Debug\ResolveAssemblyReference.cache
+D:\WS\WS\obj\Debug\WS.ProjectInstaller.resources
+D:\WS\WS\obj\Debug\WS.csproj.GenerateResource.Cache
+D:\WS\WS\obj\Debug\WS.exe
+D:\WS\WS\obj\Debug\WS.pdb
+D:\WS\WS\bin\Debug\WS.pdb
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos_net\WindowsService\WS\bin\Debug\WS.exe.config
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos_net\WindowsService\WS\obj\Debug\WS.exe
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos_net\WindowsService\WS\obj\Debug\WS.pdb
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\WS\bin\Debug\WS.exe.config
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\WS\obj\Debug\WS.exe
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\WS\obj\Debug\WS.pdb

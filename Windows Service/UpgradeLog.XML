@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WS">
+</Property><Property Name="Solution File" Value="D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\WS.sln">
+</Property><Property Name="User Options File" Value="D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\WS.suo">
+</Property><Property Name="Date" Value="domingo, 08 de agosto de 2010">
+</Property><Property Name="Time" Value="20:48 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WS.sln" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\Backup\WS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WS.suo" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\Backup\WS.suo">
+</Event><Event ErrorLevel="0" Project="WS" Source="WS\WS.csproj" Description="Project file successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\Backup\WS\WS.csproj">
+</Event><Event ErrorLevel="0" Project="WS" Source="WS\ProjectInstaller.cs" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\Backup\WS\ProjectInstaller.cs">
+</Event><Event ErrorLevel="0" Project="WS" Source="WS\ProjectInstaller.Designer.cs" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\Backup\WS\ProjectInstaller.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WS" Source="WS\Service1.cs" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\Backup\WS\Service1.cs">
+</Event><Event ErrorLevel="0" Project="WS" Source="WS\Service1.Designer.cs" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\Backup\WS\Service1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WS" Source="WS\Program.cs" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\Backup\WS\Program.cs">
+</Event><Event ErrorLevel="0" Project="WS" Source="WS\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\Backup\WS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WS" Source="WS\app.config" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\Backup\WS\app.config">
+</Event><Event ErrorLevel="0" Project="WS" Source="WS\ProjectInstaller.resx" Description="File successfully backed up as D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\WindowsService\Backup\WS\ProjectInstaller.resx">
+</Event><Event ErrorLevel="0" Project="WS" Source="WS\WS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WS" Source="WS\WS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WS" Source="WS\WS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
