@@ -1,0 +1,21 @@
+c:\users\haiver\documents\visual studio 2010\Projects\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\haiver\documents\visual studio 2010\Projects\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\Restringidor_Acceso_a_Aplicaciones.Form1.resources
+c:\users\haiver\documents\visual studio 2010\Projects\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\Restringidor_Acceso_a_Aplicaciones.Properties.Resources.resources
+c:\users\haiver\documents\visual studio 2010\Projects\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\haiver\documents\visual studio 2010\Projects\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\haiver\documents\visual studio 2010\Projects\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\bin\Debug\Restringidor Acceso a Aplicaciones.exe
+c:\users\haiver\documents\visual studio 2010\Projects\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\bin\Debug\Restringidor Acceso a Aplicaciones.pdb
+c:\users\haiver\documents\visual studio 2010\Projects\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\Restringidor Acceso a Aplicaciones.exe
+c:\users\haiver\documents\visual studio 2010\Projects\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\Restringidor Acceso a Aplicaciones.pdb
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\Restringidor Acceso a Aplicaciones.exe
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\Restringidor Acceso a Aplicaciones.pdb
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\Restringidor_Acceso_a_Aplicaciones.Form1.resources
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\Restringidor_Acceso_a_Aplicaciones.Properties.Resources.resources
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\bin\Debug\Restringidor Acceso a Aplicaciones.exe
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\bin\Debug\Restringidor Acceso a Aplicaciones.pdb
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\bin\Debug\Restringidor Acceso a Aplicaciones.exe.config
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\Restringidor Acceso a Aplicaciones\Restringidor Acceso a Aplicaciones\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
