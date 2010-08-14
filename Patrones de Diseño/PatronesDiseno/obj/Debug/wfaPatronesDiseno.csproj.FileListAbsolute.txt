@@ -1,0 +1,8 @@
+C:\Users\nbortolotti\Documents\Visual Studio 2008\Projects\Doctorado\wfaPatronesDiseno\wfaPatronesDiseno\bin\Debug\wfaPatronesDiseno.exe
+C:\Users\nbortolotti\Documents\Visual Studio 2008\Projects\Doctorado\wfaPatronesDiseno\wfaPatronesDiseno\bin\Debug\wfaPatronesDiseno.pdb
+C:\Users\nbortolotti\Documents\Visual Studio 2008\Projects\Doctorado\wfaPatronesDiseno\wfaPatronesDiseno\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nbortolotti\Documents\Visual Studio 2008\Projects\Doctorado\wfaPatronesDiseno\wfaPatronesDiseno\obj\Debug\wfaPatronesDiseno.Form1.resources
+C:\Users\nbortolotti\Documents\Visual Studio 2008\Projects\Doctorado\wfaPatronesDiseno\wfaPatronesDiseno\obj\Debug\wfaPatronesDiseno.Properties.Resources.resources
+C:\Users\nbortolotti\Documents\Visual Studio 2008\Projects\Doctorado\wfaPatronesDiseno\wfaPatronesDiseno\obj\Debug\wfaPatronesDiseno.csproj.GenerateResource.Cache
+C:\Users\nbortolotti\Documents\Visual Studio 2008\Projects\Doctorado\wfaPatronesDiseno\wfaPatronesDiseno\obj\Debug\wfaPatronesDiseno.exe
+C:\Users\nbortolotti\Documents\Visual Studio 2008\Projects\Doctorado\wfaPatronesDiseno\wfaPatronesDiseno\obj\Debug\wfaPatronesDiseno.pdb

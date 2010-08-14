@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C503F7FD-2621-4270-9477-D2D1603F7FDD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>wfaPatronesDiseno</RootNamespace>
+    <AssemblyName>wfaPatronesDiseno</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abstract Factory\Antilope.cs" />
+    <Compile Include="Abstract Factory\Bison.cs" />
+    <Compile Include="Abstract Factory\Carnivoro.cs" />
+    <Compile Include="Abstract Factory\FactoriaAfrica.cs" />
+    <Compile Include="Abstract Factory\FactoriaAmerica.cs" />
+    <Compile Include="Abstract Factory\FactoriaContinente.cs" />
+    <Compile Include="Abstract Factory\Hervivoro.cs" />
+    <Compile Include="Abstract Factory\Leon.cs" />
+    <Compile Include="Abstract Factory\Lobo.cs" />
+    <Compile Include="Abstract Factory\MundoAnimal.cs" />
+    <Compile Include="Adapter\Compuesto.cs" />
+    <Compile Include="Adapter\CompuestoCompleto.cs" />
+    <Compile Include="Adapter\Quimico.cs" />
+    <Compile Include="Builder\Computadora.cs" />
+    <Compile Include="Builder\ComputadoraBuilder.cs" />
+    <Compile Include="Builder\EmpresarialDiseñoBuilder.cs" />
+    <Compile Include="Builder\PersonalJuegosBuilder.cs" />
+    <Compile Include="Builder\Produccion.cs" />
+    <Compile Include="Command\Calculadora.cs" />
+    <Compile Include="Command\CalculadoraComando.cs" />
+    <Compile Include="Command\Comando.cs" />
+    <Compile Include="Command\Usuario.cs" />
+    <Compile Include="Composite\Compuesto.cs" />
+    <Compile Include="Composite\ElementoDibujo.cs" />
+    <Compile Include="Composite\Primitiva.cs" />
+    <Compile Include="Decorator\Cd.cs" />
+    <Compile Include="Decorator\Decorador.cs" />
+    <Compile Include="Decorator\ItemVenta.cs" />
+    <Compile Include="Decorator\Libro.cs" />
+    <Compile Include="Decorator\Revista.cs" />
+    <Compile Include="Decorator\Prestable.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Observer\Despensa.cs" />
+    <Compile Include="Observer\IInversor.cs" />
+    <Compile Include="Observer\Iversor.cs" />
+    <Compile Include="Observer\Stock.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Singleton\BalanceoCarga.cs" />
+    <Compile Include="State\Cuenta.cs" />
+    <Compile Include="State\Estado.cs" />
+    <Compile Include="State\EstadoCritico.cs" />
+    <Compile Include="State\EstadoIntermedio.cs" />
+    <Compile Include="State\EstadoRelajado.cs" />
+    <Compile Include="Template\Categorias.cs" />
+    <Compile Include="Template\DataAccesObject.cs" />
+    <Compile Include="Template\Productos.cs" />
+    <Compile Include="Visitor\Director.cs" />
+    <Compile Include="Visitor\Elemento.cs" />
+    <Compile Include="Visitor\Empleado.cs" />
+    <Compile Include="Visitor\Empleados.cs" />
+    <Compile Include="Visitor\IVisitor.cs" />
+    <Compile Include="Visitor\Presidente.cs" />
+    <Compile Include="Visitor\VisitorIngreso.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
