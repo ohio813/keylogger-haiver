@@ -1,0 +1,10 @@
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\keylog\Instalador Keylogger\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\keylog\Instalador Keylogger\obj\x86\Debug\Instalador_Keylogger.Properties.Resources.resources
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\keylog\Instalador Keylogger\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\keylog\Instalador Keylogger\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\keylog\Instalador Keylogger\bin\Debug\Instalador Keylogger.exe.config
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\keylog\Instalador Keylogger\bin\Debug\Instalador Keylogger.exe
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\keylog\Instalador Keylogger\bin\Debug\Instalador Keylogger.pdb
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\keylog\Instalador Keylogger\obj\x86\Debug\Instalador Keylogger.exe
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\keylog\Instalador Keylogger\obj\x86\Debug\Instalador Keylogger.pdb
+D:\_[H]_[A]_[I]_[V]_[E]_[R]_\desarrollos\desarrollos_net\keylog\Instalador Keylogger\obj\x86\Debug\Instalador_Keylogger.Form1.resources
