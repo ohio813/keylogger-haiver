@@ -1,0 +1,9 @@
+D:\_HAIVER\SVN\ObtenerColorPixel\ObtenerColorPixel\bin\Debug\ObtenerColorPixel.exe
+D:\_HAIVER\SVN\ObtenerColorPixel\ObtenerColorPixel\bin\Debug\ObtenerColorPixel.pdb
+D:\_HAIVER\SVN\ObtenerColorPixel\ObtenerColorPixel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_HAIVER\SVN\ObtenerColorPixel\ObtenerColorPixel\obj\x86\Debug\ObtenerColorPixel.Form1.resources
+D:\_HAIVER\SVN\ObtenerColorPixel\ObtenerColorPixel\obj\x86\Debug\ObtenerColorPixel.Properties.Resources.resources
+D:\_HAIVER\SVN\ObtenerColorPixel\ObtenerColorPixel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\_HAIVER\SVN\ObtenerColorPixel\ObtenerColorPixel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\_HAIVER\SVN\ObtenerColorPixel\ObtenerColorPixel\obj\x86\Debug\ObtenerColorPixel.exe
+D:\_HAIVER\SVN\ObtenerColorPixel\ObtenerColorPixel\obj\x86\Debug\ObtenerColorPixel.pdb
